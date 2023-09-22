@@ -3,7 +3,7 @@
 I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 
 - 🌐 I’m currently working on my personal website
-- 📚 I’m currently learning React and Java
+- 📚 I’m currently learning C# , .NET, SQL Server, Entity Framework, React and Java
 - ❓ Ask me whatever you like
 
 ## Skills
