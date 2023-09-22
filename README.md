@@ -22,27 +22,27 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 
 ## Contatti
 
-<div style="background-color: #f2f2f2; padding: 10px; width:500px; display:flex; gap:90px;">
-  <div>
+<ul style="background-color: #f2f2f2; padding: 10px; width:500px; display:flex; gap:90px;">
+  <li>
       <a href="mailto:federicocet@gmail.com" >
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png"  style="margin-inline: 40px; width: 20px;"/>
       </a>
-   </div>
-   <div>
+   </li>
+   <li>
       <a href="https://www.linkedin.com/in/federico-ceteroni-dev">
         <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-256.png" style="margin-inline: 40px; width: 20px;"/>
       </a>
-   </div>
-   <div >
+   </li>
+   <li >
     <a href="https://www.instagram.com/fedekh_/">
         <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" style="margin-inline: 40px; width: 20px;"/>
-   </div>
-   <div>
+   </li>
+   <li>
       <a href="https://ornate-frangollo-e1a120.netlify.app/">
         <img src="https://cdn4.iconfinder.com/data/icons/Milanioom_Icon_set/PNG/PC.png" style="margin-inline: 40px;width: 20px; "/>
       </a>
-   </div>
-</div>
+   </li>
+</ul>
   
      
       
