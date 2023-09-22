@@ -23,21 +23,21 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 ## Contatti
 
   <div style="background-color: #f2f2f2; padding: 10px; width:500px;">
-            <a href="mailto:federicocet@gmail.com" style="margin-inline: 50px;">
+            <a href="mailto:federicocet@gmail.com" style="padding: 0 30px;">
                 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png"
-                    style="width: 40px; margin-inline: 50px;" />
+                    style="width: 40px;" />
             </a>
-            <a href="https://www.linkedin.com/in/federico-ceteroni-dev" style="margin-inline: 50px;">
+            <a href="https://www.linkedin.com/in/federico-ceteroni-dev" style="padding: 0 30px;">
                 <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-256.png"
-                    style=" width: 40px; margin-inline: 50px;" />
+                    style=" width: 40px;" />
             </a>
-            <a href="https://www.instagram.com/fedekh_/" style="margin-inline: 50px;">
+            <a href="https://www.instagram.com/fedekh_/" style="padding: 0 30px;">
                 <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png"
-                    style="width: 40px; margin-inline: 50px;" />
+                    style="width: 40px;" />
             </a>
-            <a href="https://ornate-frangollo-e1a120.netlify.app/" style="margin-inline: 50px;">
+            <a href="https://ornate-frangollo-e1a120.netlify.app/" style="padding: 0 30px;">
                 <img src="https://cdn4.iconfinder.com/data/icons/Milanioom_Icon_set/PNG/PC.png"
-                    style="width: 40px; margin-inline: 50px;" />
+                    style="width: 40px;" />
             </a>
     </div>
      
