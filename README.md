@@ -37,7 +37,7 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
             </a>
             <a href="https://ornate-frangollo-e1a120.netlify.app/" style="margin-inline: 50px;">
                 <img src="https://cdn4.iconfinder.com/data/icons/Milanioom_Icon_set/PNG/PC.png"
-                    style="width: 40px; " />
+                    style="width: 40px;" />
             </a>
     </div>
      
