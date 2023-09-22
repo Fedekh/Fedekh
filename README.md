@@ -22,7 +22,7 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 
 ## Contatti
 
-<div style="background-color: #f2f2f2; padding: 10px; width:500px; display:flex; gap:40px;">
+<div style="background-color: #f2f2f2; padding: 10px; width:500px; display:flex; gap:90px;">
       <a href="mailto:federicocet@gmail.com" style="margin-inline: 40px;">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-256.png"  style="margin-inline: 40px; width: 20px;"/>
       </a>
