@@ -29,16 +29,16 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 ## Contatti
 
 <div style="background-color: #f2f2f2; padding: 10px; width: 500px; display: flex; justify-content: center; gap: 30px;">
-    <a href="mailto:federicocet@gmail.com" style="padding: 0 30px; margin-inline: 20px;">
+    <a href="mailto:federicocet@gmail.com" style="padding: 0 30px; margin-inline: 40px;">
        <img src="https://img.icons8.com/plasticine/100/gmail-new.png" alt="gmail-new" style="width: 40px;"/>
     </a>
-    <a href="https://www.linkedin.com/in/federico-ceteroni-dev" style="padding: 0 30px; margin-inline: 20px;">
+    <a href="https://www.linkedin.com/in/federico-ceteroni-dev" style="padding: 0 30px; margin-inline: 40px;">
         <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" style="width: 40px;"/>
     </a>
-    <a href="https://www.instagram.com/fedekh_/" style="padding: 0 30px; margin-inline: 20px;">
+    <a href="https://www.instagram.com/fedekh_/" style="padding: 0 30px; margin-inline: 40px;">
        <img src="https://img.icons8.com/fluency/48/instagram-new.png" style="width: 40px;" />
     </a>
-    <a href="https://ornate-frangollo-e1a120.netlify.app/" style="padding: 0 30px; margin-inline: 20px;">
+    <a href="https://ornate-frangollo-e1a120.netlify.app/" style="padding: 0 30px; margin-inline: 40px;">
         <img src="https://img.icons8.com/fluency/48/application-window.png" style="width: 40px;" />
     </a>
 </div>
