@@ -36,10 +36,10 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
         <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" style="width: 40px;"/>
     </a>
     <a href="https://www.instagram.com/fedekh_/" style="padding: 0 30px; margin-inline: 20px;">
-       <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" style="width: 40px;" />
+       <img src="https://img.icons8.com/fluency/48/instagram-new.png" style="width: 40px;" />
     </a>
     <a href="https://ornate-frangollo-e1a120.netlify.app/" style="padding: 0 30px; margin-inline: 20px;">
-        <img width="48" height="48" src="https://img.icons8.com/fluency/48/application-window.png" style="width: 40px;" />
+        <img src="https://img.icons8.com/fluency/48/application-window.png" style="width: 40px;" />
     </a>
 </div>
 
