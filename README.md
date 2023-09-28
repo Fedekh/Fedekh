@@ -20,9 +20,9 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png" alt="Laravel" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/color/96/c-sharp-logo-2.png" alt="c-sharp-logo-2" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/24/external-Dot-Net-social-media-those-icons-lineal-color-those-icons.png" style="width: 40px; margin-inline: 20px;"/>
-  <img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" style="width: 40px; margin-inline: 20px;"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2" style="width: 40px; margin-inline: 20px;"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="width: 40px; margin-inline: 20px;"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" style="width: 40px; margin-inline: 20px;"/>
+  <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2" style="width: 40px; margin-inline: 20px;"/>
+  <img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019" style="width: 40px; margin-inline: 20px;"/>
   
 </div>
 
