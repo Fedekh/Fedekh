@@ -18,7 +18,7 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
   <img src="https://img.icons8.com/color/30/000000/sql.png" alt="SQL" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/officel/30/000000/php-logo.png" alt="PHP" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png" alt="Laravel" style="width: 40px; margin-inline: 20px;"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/96/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/96/c-sharp-logo-2.png" alt="c-sharp-logo-2" style="width: 40px; margin-inline: 20px;"/>
   
 </div>
 
