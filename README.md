@@ -2,8 +2,8 @@
 
 I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 
-- 📚 I’m currently learning C#, .NET, SQL Server, Entity Framework, WebApi
-- 🌐 I have a good base of front-end Html, Css, Js, VueJs and a very good base of back-end Php, Laravel, SQL, MySQL
+- 📚 I’m currently learning Node.js, React.js, Tailwind
+- 🌐 I have a good base of FRONT-END Html, Css, Js, VueJs and a very good base of BACK-END C#, .NET, SQL Server, Entity Framework, WebApi, Php, Laravel, SQL, MySQL
 - ❓ Ask me whatever you like
 
 ## Skills
