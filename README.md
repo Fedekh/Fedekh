@@ -10,14 +10,17 @@ I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
   ### Front-end
   - Html
   - Css
+  - Bootstrap
   - Js
-  - VueJs
+  - VueJs + Vite
 
   ### Back-end
   - C#
   - .NET
   - SQL Server
   - Entity Framework
+  - Razor
+  - Blazor
   - WebApi
   - Php
   - Laravel
