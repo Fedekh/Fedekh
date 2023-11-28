@@ -17,17 +17,20 @@
   <tr>
     <td align="center">
       <b>Backend</b>
-      <br>
+      <br><br>
       <img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
       <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
       <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
       <img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
       <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white">
       <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+      <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">
+      <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
+      <img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
     </td>
     <td align="center">
       <b>Frontend</b>
-      <br>
+      <br><br>
       <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
       <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
       <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
@@ -38,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 
 
 ### 📫 &nbsp; How to reach me:
