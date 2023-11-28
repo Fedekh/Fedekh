@@ -14,25 +14,25 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+#### Backend
 <img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
-<img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
-<img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
 <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
 <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
 <img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
+<img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white">
+<img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+
+#### Frontend
 <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
 <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
-<img alt="GitHub Badge" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
-<img alt="GitKraken Badge" src="https://img.shields.io/badge/-GitKraken-179287?logo=gitkraken&logoColor=white">
-<img alt="Visual Studio Badge" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual%20studio&logoColor=white">
-<img alt="VS Code Badge" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white">
+<img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
 <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
 <img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
 <img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
 <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white">
 
 
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
+
 
 ### 📫 &nbsp; How to reach me:
 
