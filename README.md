@@ -1,7 +1,8 @@
-### <h1 align="center">
+### <p align="center">
   <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left" style="margin-right: 20px;"/>
-  <h1 style="color:red; font-size: 44px;">Hello there!</h1>
-</h1>
+  <p style="color:red; font-size: 24px;">Hello there!</p>
+</p>
+
 
 
 
