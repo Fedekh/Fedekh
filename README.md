@@ -8,8 +8,7 @@
 ✍️ &nbsp;In my free time, I play gym, crossfit and bike.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at federicocet@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://fedekh.netlify.app/) for more details about work experience.
-
+📄 &nbsp;You can check my [Temporary Site](https://fedekh.netlify.app/) for more details about work experience.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -41,6 +40,9 @@
     </td>
   </tr>
 </table>
+
+
+
 
 
 ### 📫 &nbsp; How to reach me:
