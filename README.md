@@ -15,7 +15,7 @@
 <table>
   <tr style="display:flex; gap:30px;">
     <td align="center">
-      <b>Backend</b>
+      <p>Backend</p>
       <br>
       <div style="list-style-type:none; padding: 0;">
         <p><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
@@ -30,7 +30,7 @@
       </div>
     </td>
     <td align="center">
-      <b>Frontend</b>
+      <p>Frontend</p>
        <br>
      <div style="list-style-type:none; padding: 0;">
         <p><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
