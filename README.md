@@ -13,7 +13,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 <table>
-  <tr>
+  <tr style="display:flex;">
     <td align="center" valign="top">
       <b>Backend</b>
       <ul>
