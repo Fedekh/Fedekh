@@ -16,7 +16,7 @@
   <tr style="display:flex; gap:30px;">
     <td align="center">
       <b>Backend</b>
-      <ul style="list-style-type:none;">
+      <ul style="list-style-type:none; padding: 0;">
         <li><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
              <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
             <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></li>
@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <b>Frontend</b>
-     <ul style="list-style-type:none;">
+     <ul style="list-style-type:none; padding: 0;">
         <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
             <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
         </li>
