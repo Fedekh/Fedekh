@@ -54,6 +54,15 @@
 </table>
 
 
+### 🛠 &nbsp;Tools
+<div>
+    <img alt="Visual Studio Badge" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual%20studio&logoColor=white">
+    <img alt="Visual Studio Code Badge" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual%20studio%20code&logoColor=white">
+    <img alt="Git Badge" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
+    <img alt="GitKraken Badge" src="https://img.shields.io/badge/-GitKraken-179287?logo=gitkraken&logoColor=white">
+    <img alt="Jira Badge" src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white">
+</div>
+
 
 
 ### 📫 &nbsp; How to reach me:
