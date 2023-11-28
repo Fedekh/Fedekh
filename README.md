@@ -13,8 +13,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 <table>
-  <tr style="display:flex;">
-    <td align="center" valign="top">
+  <tr style="display:flex; gap:30px;">
+    <td align="center">
       <b>Backend</b>
       <ul>
         <li><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"></li>
@@ -28,7 +28,7 @@
         <li><img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"></li>
       </ul>
     </td>
-    <td align="center" valign="top">
+    <td align="center">
       <b>Frontend</b>
       <ul>
         <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"></li>
