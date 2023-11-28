@@ -16,7 +16,7 @@
   <tr style="display:flex; gap:30px;">
     <td align="center">
       <b>Backend</b>
-      <ul>
+      <ul style="list-style-type:none;">
         <li><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
              <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
             <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></li>
@@ -30,14 +30,14 @@
     </td>
     <td align="center">
       <b>Frontend</b>
-      <ul>
-        <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"></li>
-        <li><img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"></li>
-        <li><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></li>
-        <li><img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white"></li>
-        <li><img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"></li>
-        <li><img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white"></li>
-        <li><img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white"></li>
+     <ul style="list-style-type:none;">
+        <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
+        <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"></li>
+        <li><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+       <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white"></li>
+        <li><img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
+        <img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
+        <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white"></li>
       </ul>
     </td>
   </tr>
