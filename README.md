@@ -16,12 +16,13 @@
 ### 🛠 &nbsp;Tech Stack
 <img alt="Static Badge" src="https://img.shields.io/badge/-_C%23-Sharp">
 &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+<img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
+<img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+<img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
+<img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
+<img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
+<img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
