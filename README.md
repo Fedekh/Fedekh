@@ -12,7 +12,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-#### Backend
 <table>
   <tr>
     <td align="center" valign="top">
@@ -21,21 +20,6 @@
         <li><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"></li>
         <li><img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white"></li>
         <li><img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></li>
-      </ul>
-    </td>
-    <td align="center" valign="top">
-      <b>Frontend</b>
-      <ul style="list-style-type: none; padding: 0;">
-        <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"></li>
-        <li><img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"></li>
-        <li><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <b>Backend (Continued)</b>
-      <ul style="list-style-type: none; padding: 0;">
         <li><img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white"></li>
         <li><img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white"></li>
         <li><img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"></li>
@@ -44,9 +28,12 @@
         <li><img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"></li>
       </ul>
     </td>
-    <td align="center" colspan="2">
-      <b>Frontend (Continued)</b>
-      <ul style="list-style-type: none; padding: 0;">
+    <td align="center" valign="top">
+      <b>Frontend</b>
+      <ul>
+        <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"></li>
+        <li><img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"></li>
+        <li><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></li>
         <li><img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white"></li>
         <li><img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"></li>
         <li><img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white"></li>
@@ -55,7 +42,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
