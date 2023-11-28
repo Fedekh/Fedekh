@@ -1,14 +1,17 @@
 ### <p align="center">
   <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left" style="margin-right: 20px;"/>
-  <h1 style="color:red; font-size: 24px;">Hello there!</h1>
+  <h1 style="color:#ff5252; font-size: 28px;">Hello there! 👋</h1>
 </p>
 
-💡 &nbsp; I'm Federico,a Full-stack developer, working mainly in backend projects with .NET + Blazor framework. \
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play gym, crossfit and bike.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at federicocet@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Temporary Site](https://fedekh.netlify.app/) for more details about work experience.
+💻 &nbsp; Hey, I'm Federico, a passionate Full-stack developer, primarily focused on backend projects using the .NET + Blazor framework. \
+🧠 &nbsp; I'm currently delving into exciting realms like Artificial Intelligence, Homomorphic Encryption, and Computer Vision - always eager to learn and explore.\
+🏋️‍♂️ &nbsp; In my downtime, you can find me at the gym, doing crossfit, or enjoying a bike ride.\
+💬 &nbsp; Feel free to connect with me for any advice, general discussions, or deep dives into the fascinating topics I'm exploring!\
+📧 &nbsp; Reach out to me at federicocet@gmail.com, and I'll get back to you as soon as possible!\
+🌐 &nbsp; Check out my [Temporary Site](https://fedekh.netlify.app/) for more details about my work experience.
+
+Let me know if there's anything else you'd like to adjust!
+
 
 ### 🛠 &nbsp;Tech Stack
 
