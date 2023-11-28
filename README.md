@@ -1,4 +1,4 @@
-# <div style="color: red;👋 Hey there! I'm Federico, a Fullstack Developer from Italy! 💻 🚀</div>
+# <div style="color: red;"👋 Hey there! I'm Federico, a Fullstack Developer from Italy! 💻 🚀</div>
 
 Welcome to my profile! 👋
 
