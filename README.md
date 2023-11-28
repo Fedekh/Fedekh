@@ -64,29 +64,12 @@
 </div>
 
 
-
 ### 📫 &nbsp; How to reach me:
 
-
-<a href="https://www.linkedin.com/in/abhishek-singh-dhadwal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:dhadwal1507@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/fedekh_"><img src="https://img.shields.io/badge/-Fedekh?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
-<!--
-**AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<a href="https://www.linkedin.com/in/federico-ceteroni-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/fedekh_/"><img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:federicocet@tuaemail.com"><img alt="Email" src="https://img.shields.io/badge/email%20-%23D14836.svg?&style=flat&logo=google%20gmail&logoColor=white"/></a> &nbsp;
+<a href="https://fedekh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website%20-%2312100E.svg?&style=flat&logo=website&logoColor=white"/></a> &nbsp;
 
 
 
