@@ -1,6 +1,6 @@
 ### <p align="center">
   <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left" style="margin-right: 20px;"/>
-  <h1 style="color:#ff5252; font-size: 28px;">Hello there! 👋</h1>
+  <h1 style="color:#ff5252; font-size: 28px;">Hello there! </h1>
 </p>
 
 💻 &nbsp; Hey, I'm Federico, a passionate Full-stack developer, primarily focused on backend projects using the .NET + Blazor framework. \
