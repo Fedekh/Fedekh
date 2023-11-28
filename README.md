@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/30/000000/vue-js.png" alt="Vue.js" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/color/30/000000/sass.png" alt="Sass" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/color/30/000000/bootstrap.png" alt="Bootstrap" style="width: 40px; margin-inline: 20px;"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" style="width: 40px; margin-inline: 20px;/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/officel/30/000000/php-logo.png" alt="PHP" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/194_Laravel_logo_logos-256.png" alt="Laravel" style="width: 40px; margin-inline: 20px;"/>
   <img src="https://img.icons8.com/color/96/c-sharp-logo-2.png" alt="c-sharp-logo-2" style="width: 40px; margin-inline: 20px;"/>
