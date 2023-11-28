@@ -1,5 +1,8 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> 
-<h1>Hello there !</h1>
+### <div align="center">
+  <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
+  <h1>Hello there!</h1>
+</div>
+
 
 💡 &nbsp; I'm Federico,a Full-stack developer, working mainly in backend projectse with .NET + Blazor framework. \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
