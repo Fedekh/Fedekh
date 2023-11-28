@@ -1,5 +1,4 @@
-# Hey there!! 👋 
-# I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
+# 👋 Hey there!!  I'm Federico, a Fullstack developer from Italy!!! 💻 🚀
 
 # Welcome to my profile! 👋
 
