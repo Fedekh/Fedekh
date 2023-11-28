@@ -15,67 +15,43 @@
 #### Backend
 <table>
   <tr>
-    <td align="center">
-      <img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
+    <td align="center" valign="top">
+      <b>Backend</b>
+      <ul>
+        <li><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white"></li>
+        <li><img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white"></li>
+        <li><img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white"></li>
+      </ul>
     </td>
-    <td align="center">
-      <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+    <td align="center" valign="top">
+      <b>Frontend</b>
+      <ul style="list-style-type: none; padding: 0;">
+        <li><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white"></li>
+        <li><img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"></li>
+        <li><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"></li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">
+    <td align="center" colspan="2">
+      <b>Backend (Continued)</b>
+      <ul style="list-style-type: none; padding: 0;">
+        <li><img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white"></li>
+        <li><img alt="SQL Badge" src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white"></li>
+        <li><img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"></li>
+        <li><img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></li>
+        <li><img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"></li>
+        <li><img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"></li>
+      </ul>
     </td>
-    <td align="center">
-      <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-#### Frontend
-<table>
-  <tr>
-    <td align="center">
-      <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
-    </td>
-    <td align="center">
-      <img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white">
+    <td align="center" colspan="2">
+      <b>Frontend (Continued)</b>
+      <ul style="list-style-type: none; padding: 0;">
+        <li><img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white"></li>
+        <li><img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"></li>
+        <li><img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white"></li>
+        <li><img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white"></li>
+      </ul>
     </td>
   </tr>
 </table>
