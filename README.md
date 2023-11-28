@@ -14,7 +14,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://camo.githubusercontent.com/d6b0b724ee40a5cc930227bbe03025c92aa02ca50a42fe9077ff62fee298d826/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61724a532d4532333233373f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c61726a73266c6f676f436f6c6f723d7768697465)
 ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
