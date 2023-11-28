@@ -1,31 +1,36 @@
-# <p style="color:red">👋 Hey there!!  I'm Federico, a Fullstack developer from Italy!!! 💻 🚀</p>
+# 👋 Hey there! I'm Federico, a Fullstack Developer from Italy! 💻 🚀
 
-# Welcome to my profile! 👋
+Welcome to my profile! 👋
 
-- 📚 I’m currently learning Node.js, React.js, and Tailwind CSS.
-- 🌐 I have a strong foundation in:
+📚 **Currently Learning:**
+- Node.js
+- React.js
+- Tailwind CSS
 
-  ### Front-end
-  - Html
-  - Css
-  - Bootstrap
-  - Js
-  - VueJs + Vite
+🌐 **Strong Foundation In:**
 
-  ### Back-end
-  - C#
-  - .NET
-  - SQL Server
-  - Entity Framework
-  - Razor
-  - Blazor
-  - WebApi
-  - Php
-  - Laravel
-  - SQL
-  - MySQL
+### Front-end
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Vue.js + Vite
 
-- ❓ Ask me anything you'd like!
+### Back-end
+- C#
+- .NET
+- SQL Server
+- Entity Framework
+- Razor
+- Blazor
+- WebApi
+- PHP
+- Laravel
+- SQL
+- MySQL
+
+❓ **Ask Me Anything!**
+
 
 
 
