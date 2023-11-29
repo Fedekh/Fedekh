@@ -17,7 +17,7 @@ Let me know if there's anything else you'd like to adjust!
 
 <table>
   <tr style="display:flex; gap:70px;">
-    <td align="center">
+    <td align="center" style="margin:0 50px;">
       <p>Backend</p>
       <br>
       <div>
@@ -40,7 +40,7 @@ Let me know if there's anything else you'd like to adjust!
         </p>  
       </div>
     </td>
-    <td align="center">
+    <td align="center" style="margin:0 50px;">
       <p>Frontend</p>
        <br>
      <div>
