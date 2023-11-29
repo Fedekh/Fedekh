@@ -4,7 +4,7 @@
 </p>
 
 💻 &nbsp; Hey, I'm Federico, a passionate Full-stack developer, primarily focused on backend projects using the .NET + Blazor framework. \
-🧠 &nbsp; I'm currently delving into exciting realms like Artificial Intelligence, Homomorphic Encryption, and Computer Vision - always eager to learn and explore.\
+🧠 &nbsp; I'm currently trying to improve my backend side with the use of .net and blazor in advanced ways.\
 🏋️‍♂️ &nbsp; In my downtime, you can find me at the gym, doing crossfit, or enjoying a bike ride.\
 💬 &nbsp; Feel free to connect with me for any advice, general discussions, or deep dives into the fascinating topics I'm exploring!\
 📧 &nbsp; Reach out to me at federicocet@gmail.com, and I'll get back to you as soon as possible!\
