@@ -16,7 +16,7 @@ Let me know if there's anything else you'd like to adjust!
 ### 🛠 &nbsp;Tech Stack
 
 <table>
-  <tr style="display:flex; gap:30px;">
+  <tr style="display:flex; gap:70px;">
     <td align="center">
       <p>Backend</p>
       <br>
