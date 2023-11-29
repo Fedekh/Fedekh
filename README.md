@@ -20,7 +20,7 @@ Let me know if there's anything else you'd like to adjust!
     <td align="center">
       <p>Backend</p>
       <br>
-      <div style="list-style-type:none; padding: 0;">
+      <div>
         <p>
           <img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
           <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
@@ -43,7 +43,7 @@ Let me know if there's anything else you'd like to adjust!
     <td align="center">
       <p>Frontend</p>
        <br>
-     <div style="list-style-type:none; padding: 0;">
+     <div>
         <p><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
              <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
             <img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
