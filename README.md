@@ -77,7 +77,7 @@ Let me know if there's anything else you'd like to adjust!
 <a href="https://www.linkedin.com/in/federico-ceteroni-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://www.instagram.com/fedekh_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:federicocet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email%20-%23D14836.svg?&style=flat&logo=gmail&logoColor=white"/></a> &nbsp;
-<a href="https://fedekh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website%20-%23000000.svg?&style=flat&logo=pc&logoColor=white"/></a>&nbsp;
+<a href="https://fedekh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website%20-%23000000.svg?&style=flat&logo=desktop&logoColor=white"/></a>&nbsp;
 
 
 
