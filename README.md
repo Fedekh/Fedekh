@@ -23,7 +23,7 @@ Let me know if there's anything else you'd like to adjust!
       <div style="list-style-type:none; padding: 0;">
         <p><img alt="C# Badge" src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white">
              <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
-          <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">           
+          <img alt="Blazor Badge" src="https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white"/>
         </p>
         <p>
           <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
@@ -33,6 +33,7 @@ Let me know if there's anything else you'd like to adjust!
         <p>          
           <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
           <img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
+          <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">           
         </p>
       </div>
     </td>
