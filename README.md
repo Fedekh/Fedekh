@@ -55,6 +55,7 @@ Let me know if there's anything else you'd like to adjust!
         <p><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
             <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
         </p>
+       <p>   <br> </p>  
       </div>
     </td>
   </tr>
