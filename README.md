@@ -18,7 +18,7 @@ Let me know if there's anything else you'd like to adjust!
 <table>
   <tr style="display:flex; gap:70px;">
     <td align="center" style="margin:0 50px;">
-      <p>Backend</p>
+      <p>BACK-END</p>
       <br>
       <p>Good Basis</p>      
       <div>
@@ -31,17 +31,17 @@ Let me know if there's anything else you'd like to adjust!
           <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
           <img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
         </p>
+         <p>
+          <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+          <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">           
+        </p> 
       </div>
       <p>Soft Basis</p>
       <div>        
         <p>        
           <img alt="Node.js Badge" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
           <img alt="Express.js Badge" src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">
-        </p>
-        <p>
-          <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
-          <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">           
-        </p> 
+        </p>       
       </div>        
     </td>
     <td align="center" style="margin:0 50px;">
