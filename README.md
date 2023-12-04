@@ -50,8 +50,8 @@ Let me know if there's anything else you'd like to adjust!
     <td align="center" style="margin:0 50px;">
       <p>FRONT-END</p>
        <br>
-      <p>Good Basis</p>
      <div>
+      <p>Good Basis</p>
         <p>
           <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black">
              <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
