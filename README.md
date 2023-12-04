@@ -35,6 +35,7 @@ Let me know if there's anything else you'd like to adjust!
         <p>
           <img alt="PHP Badge" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
           <img alt="Laravel Badge" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white">
+          <img alt="Eloquent Badge" src="https://img.shields.io/badge/-Eloquent-E34F26?logo=laravel&logoColor=white">
         </p>      
       </div>
       <p>Soft Basis</p>
