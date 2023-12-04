@@ -48,22 +48,26 @@ Let me know if there's anything else you'd like to adjust!
       </div>        
     </td>
     <td align="center" style="margin:0 50px;">
-      <p>Frontend</p>
+      <p>FRONT-END</p>
        <br>
+      <p>Good Basis</p>
      <div>
-        <p><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
+        <p>
+          <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black">
              <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
-            <img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
+          <img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
         </p>
         <p>
-          <img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
-          <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white">
-        </p>
-        <p><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
+          <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
             <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
         </p>
-       <p>   <br> </p>  
       </div>
+      <p>Soft Basis</p>
+        <p>
+            <img alt="React Badge" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white">
+          <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white">
+        </p>
+       <p>   <br> </p>  
     </td>
   </tr>
 </table>
