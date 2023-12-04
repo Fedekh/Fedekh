@@ -28,7 +28,7 @@ Let me know if there's anything else you'd like to adjust!
           <img alt="Blazor Badge" src="https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white"/>          
         </p>
            <p>
-           <img alt="Entity Framework Badge" src="https://img.shields.io/badge/-E%20F-512BD4?logo=.net&logoColor=white">
+           <img alt="Entity Framework Badge" src="https://img.shields.io/badge/-EF%20ORM-512BD4?logo=.net&logoColor=white">
           <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
           <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">           
         </p> 
