@@ -64,7 +64,7 @@ Let me know if there's anything else you'd like to adjust!
       </div>
       <p>Soft Basis</p>
         <p>
-            <img alt="React Badge" src="https://img.shields.io/badge/-React-222222?logo=react&logoColor=white">
+            <img alt="React Badge" src="https://img.shields.io/badge/-React-222222?logo=react&logoColor=#61DAFB">
           <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind%20css&logoColor=white">
         </p>
        <p>   <br> </p>  
