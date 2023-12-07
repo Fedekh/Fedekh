@@ -15,9 +15,9 @@ Let me know if there's anything else you'd like to adjust!
 
 ### 🛠 &nbsp;Tech Stack
 
-<table>
-  <tr style="display:flex; gap:70px;">
-    <td align="center" style="margin:0 50px;">
+<table style="width: 100%;">
+  <tr style="display:flex; justify-content: space-around;">
+    <td align="center">
       <p>BACK-END</p>
       <br>
       <p>Good Basis</p>      
@@ -27,8 +27,8 @@ Let me know if there's anything else you'd like to adjust!
           <img alt=".NET Badge" src="https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white">
           <img alt="Blazor Badge" src="https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white"/>          
         </p>
-           <p>
-           <img alt="Entity Framework Badge" src="https://img.shields.io/badge/-EF%20ORM-512BD4?logo=.net&logoColor=white">
+        <p>
+          <img alt="Entity Framework Badge" src="https://img.shields.io/badge/-EF%20ORM-512BD4?logo=.net&logoColor=white">
           <img alt="MySQL Badge" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
           <img alt="SQL Server Badge" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white">           
         </p> 
@@ -47,30 +47,32 @@ Let me know if there's anything else you'd like to adjust!
         </p>       
       </div>        
     </td>
-    <td align="center" style="margin:0 50px;">
+    <td align="center">
       <p>FRONT-END</p>
-       <br>
+      <br>
       <p>Good Basis</p>
-     <div>
+      <div>
         <p>
           <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black">
-             <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
+          <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
           <img alt="Bootstrap Badge" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white">
         </p>
         <p>
           <img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white">
-            <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
+          <img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white">
         </p>
       </div>
       <p>Soft Basis</p>
+      <div>
         <p>
-            <img alt="React Badge" src="https://img.shields.io/badge/-React-222222?logo=react&logoColor=#61DAFB">
+          <img alt="React Badge" src="https://img.shields.io/badge/-React-222222?logo=react&logoColor=#61DAFB">
           <img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/-Tailwind%20CSS-161D2D?logo=tailwind%20css&logoColor=#16BECB">
         </p>
-       <p>   <br> </p>  
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 ### 🛠 &nbsp;Tools
