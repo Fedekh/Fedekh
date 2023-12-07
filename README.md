@@ -3,7 +3,7 @@
   <h1 style="color:#ff5252; font-size: 28px;">Hello there! </h1>
 </p>
 
-💻 &nbsp; Hey, I'm Federico, a passionate Full-stack developer, primarily focused on backend projects using the .NET + Blazor framework. \
+💻 &nbsp; Hi, I'm Federico, a passionate Full-stack developer, mainly focused on backend projects using the .NET + Blazor framework, but also Laravel. \
 🧠 &nbsp; I'm currently trying to improve my backend side with the use of .NET and BLAZOR in advanced ways.\
 🏋️‍♂️ &nbsp; In my downtime, you can find me at the gym, doing crossfit, or enjoying a bike ride.\
 💬 &nbsp; Feel free to connect with me for any advice, general discussions, or deep dives into the fascinating topics I'm exploring!\
@@ -50,8 +50,8 @@ Let me know if there's anything else you'd like to adjust!
     <td align="center" style="margin:0 50px;">
       <p>FRONT-END</p>
        <br>
-     <div>
       <p>Good Basis</p>
+     <div>
         <p>
           <img alt="JavaScript Badge" src="https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black">
              <img alt="Vue.js Badge" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
